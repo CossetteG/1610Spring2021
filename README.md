@@ -8,3 +8,4 @@ January 16th: Today was a clear day with a warm sun. No vibe check today, my ene
 
 January 17th: Today the sun is bright and the colors vibrant. It's a good day to cast a good vibe spell, but Sundays usually are. Remember to drink water luvs
 
+January 21st: Today is a sunny, calm day. The day will go by quickly so remember to take the time to rest
