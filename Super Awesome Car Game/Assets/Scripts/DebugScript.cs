@@ -7,7 +7,7 @@ public class DebugScript : MonoBehaviour
     // Use this for initialization?
     void Start()
     {
-        Debug.Log("Debug message here");
+        Debug.Log("OperationCereal is go");
     }
 
     // Update is called once per frame

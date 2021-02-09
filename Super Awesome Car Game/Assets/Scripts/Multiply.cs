@@ -5,10 +5,11 @@ using UnityEngine;
 public class Multiply : MonoBehaviour
 {
     
-   public int myInt = 5;
+   
    
    void Start()
    {
+       int myInt = 5;
        int yourInt;
        yourInt = MultiplyByTwo(myInt); 
        Debug.Log(yourInt);
