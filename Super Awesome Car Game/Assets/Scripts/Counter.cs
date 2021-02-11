@@ -15,18 +15,17 @@ public class Counter : MonoBehaviour
     void Update()
     {
         scoreCount++;
-        print(scoreCount);
     }
 
     void ScoreTest()
     {
         if (scoreCount > 100)
         {
-            print("Gold Star for You");
+            Debug.Log("Gold Star for You");
         }
         else
         {
-            print("Go for the Gold");
+            Debug.Log("Go for the Gold");
         }
     }
 }
