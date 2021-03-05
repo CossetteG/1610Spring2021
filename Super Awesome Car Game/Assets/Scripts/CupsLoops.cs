@@ -8,7 +8,7 @@ public class DishwashingLoops : MonoBehaviour
     void Start()
     {
         int cupsInTheSink = 4;
-        int platesInTheSink = 3;
+        //int platesInTheSink = 3;
         int chopsticksInTheSink = 6;
         while (cupsInTheSink > 0)
         {
